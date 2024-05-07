@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dev Multi v3 (Updated)
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @description  Dev New Version Multidrop for agma.io
 // @author       Dev
 // @match        *://agma.io/*
